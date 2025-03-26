@@ -63,13 +63,3 @@
 ## License
 
 本範例以 MIT License 授權，歡迎自由使用與修改。
-
-
----
-
-## requirements.txt
-
-```plaintext
-llvmlite
-anytree
-```
