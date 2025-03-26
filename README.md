@@ -28,7 +28,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-2. 放入您的自訂程式碼（類似 `example_code.qc`）到專案目錄下。例如以下範例程式碼：
+2. 放入您的自訂程式碼（類似 `example.fib`）到專案目錄下。例如以下範例程式碼：
 
    ```c
    def fib(n) {
